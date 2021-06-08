@@ -1,6 +1,7 @@
 # Game-of-Life
 ## John Conway's Game of Life
-Game of Life was the brain child of the one of the greatest mathematician John Horton Conway. Game of life is Turing compelete, i.e., one can simluate the Game of Life on Game of Life. Game of Life is udecidable that is we can't tell if a pattern will continue forever, or reach a steady state, or fade away. In this repo I have provided python code for simulating game of life using different patterns. Detailed discussion has been provided in the code. 
+![](conway.jpg)
+Game of Life was the brain child of the one of the greatest mathematician John Horton Conway (1937–2020). He was an English mathematician worked in the theory of finite groups, knot theory, number theory, combinatorial game theory and coding theory. He also made contributions to many branches of recreational mathematics. He passed away in 2020 due to COVID-19. Game of life is Turing compelete, i.e., one can simluate the Game of Life on Game of Life. Game of Life is undecidable that is we can't tell if a pattern will continue forever, or reach a steady state, or fade away. In this repo I have provided python code for simulating game of life using different patterns. Detailed discussion has been provided in the code. 
 ## References
 Some references related to the topics of Godel's incompleteness, birth of Turing machine during world war, Cantor's set theory and the problem of **completeness, consistency and decidable**.  
 - [Video by Veritasium](https://www.youtube.com/watch?v=HeQX2HjkcNo)
